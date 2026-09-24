@@ -1,4 +1,4 @@
-## 1. Repositorio base para exámenes 
+## 1. Repositorio base para el curso 2026-2027 
 Se proporciona un repositorio plantilla que ya tiene la estructura **Maven** y el `pom.xml` configurado con todas las dependencias necesarias (JAXB, Gson, JUnit 5). 
 
 ---
@@ -31,7 +31,7 @@ Abre **Git Bash** en Spring Tool Suite o en Eclipse (`Window` → `Show View` �
 ## 4. Importar en Spring Tool Suite
 
 1. **File** → **Import** → **Maven** → **Existing Maven Projects** → **Next**.
-2. En **Root Directory** pulsa **Browse** y selecciona la carpeta `examenut7`.
+2. En **Root Directory** pulsa **Browse** y selecciona la carpeta `repojava2627`.
 3. Eclipse detecta el `pom.xml` — marca el checkbox → **Finish**.
 4. Espera a que Maven descargue las dependencias.
 5. Clic derecho en el proyecto → **Maven** → **Update Project** → **OK**.
