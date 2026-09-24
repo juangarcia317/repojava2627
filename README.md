@@ -5,9 +5,9 @@ Se proporciona un repositorio plantilla que ya tiene la estructura **Maven** y e
 
 ## 2. Crear tu repositorio desde la plantilla
 
-1. Accede al repositorio base del profesor en GitHub: [https://github.com/juangarcia317/examendaw2526](https://github.com/juangarcia317/examendaw2526). 
+1. Accede al repositorio base del profesor en GitHub: [https://github.com/juangarcia317/repojava2627](https://github.com/juangarcia317/repojava2627). 
 2. Pulsa el botón verde **Use this template** → **Create a new repository**. 
-3. Ponle de nombre: `examendaw2526`. 
+3. Ponle de nombre: `repojava2627`. 
 4. Márcalo como **privado (Private)**. ⚠️ ***muy importante***
 5. Pulsa **Create repository**. 
 6. Comparte con el profesor en la URL: [Enlace de entrega](https://educa2madrid-my.sharepoint.com/:x:/g/personal/juan_garcia317_educa_madrid_org/IQCd9rqaiZ6VTKbbjpd62LBdAXYzAc0t1Ph0oalQfQeoPyU?e=5Wzkxr)
@@ -20,7 +20,7 @@ Abre **Git Bash** en Spring Tool Suite o en Eclipse (`Window` → `Show View` �
 
 `cd C:\Programas\sts`
 
-`git clone https://USUARIO:TOKEN@github.com/USUARIO/examendaw2526`
+`git clone https://USUARIO:TOKEN@github.com/USUARIO/repojava2627`
 
 > **Nota:** Recuerca añadir tu token personal para poder hacer commit a tu repositorio.
 
@@ -40,17 +40,8 @@ Abre **Git Bash** en Spring Tool Suite o en Eclipse (`Window` → `Show View` �
 
 ### Estructura de carpetas:
 
-* **examendaw2526** [examendaw2526 main]
-    * 📁 **src/main/java**
-        * 📦 **examenUT8**
-            * 📄 `ExamenMain.java`
-        * 📦 **extraordinaria18junio**
-            * 📄 `MainExtra18Junio.java`
-        * 📦 **ordinaria19mayo**
-            * 📄 `MainOrd19Mayo`
-        * 📦 **ordinaria2junio**
-            * 📄 `MainOrd2Junio.java`
-        * 📦 **simulacrout8**
+* **repojava2627** [repojava2627 main]
+    * 📁 **src/main/java**        
     * 📁 **src/main/resources**
 ---
 
